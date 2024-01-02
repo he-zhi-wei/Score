@@ -1,0 +1,17 @@
+# ignore file endwith 'o' or 'a' 
+*.[oa]
+
+# ignore file endwith 'out'
+*out
+
+# ignore TODO file in the current directory
+/TODO
+
+# ignore folders nameed build in any directory
+Buid/
+
+# ignore files ending with '.txt' in the 'doc' folder
+doc/*.txt
+
+# ignore files ending with '.pdf' in the 'doc' directory and its all subdirectories
+doc/**/*.pdf
