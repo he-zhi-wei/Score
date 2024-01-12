@@ -59,7 +59,7 @@ public:
 	{
 		for (int i= 0; i < v2.size(); i++)
 		{
-			cout << "ÐÕÃû£º" << v2[i]->name << " ·ÖÊý£º" << v2[i]->score << endl;
+			cout << v2[i]->name << " " << v2[i]->score << endl;
 		}
 	}
 };

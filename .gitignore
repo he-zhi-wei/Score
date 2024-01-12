@@ -1,0 +1,11 @@
+*.out
+
+*.[ao]
+
+!lib.a
+
+build/
+
+doc/**/*.pdf
+
+doc/*.txt
