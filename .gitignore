@@ -9,3 +9,5 @@ build/
 doc/**/*.pdf
 
 doc/*.txt
+
+tmp/
